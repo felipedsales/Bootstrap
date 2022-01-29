@@ -1,0 +1,20 @@
+.navbar {
+    background-color:rgb(40, 211, 40);
+}
+
+.conversas{
+    background-color:rgb(38, 197, 144);
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: cadetblue;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
